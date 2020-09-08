@@ -1,5 +1,5 @@
 <?php include 'db.php'; ?>
-<?php 
+<?php      
 session_start();
 global $db;
 // Preventing Direct Access to this page
